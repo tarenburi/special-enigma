@@ -1,0 +1,23 @@
+{
+  "name": "special-enigma-http-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tarenburi/special-enigma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarenburi/special-enigma/issues"
+  },
+  "homepage": "https://github.com/tarenburi/special-enigma#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "jest": "^29.7.0"
+  }
+}
